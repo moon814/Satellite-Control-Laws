@@ -10,7 +10,11 @@ Following is a back of the napkin list for what will be included imemediately an
 2) Control Moment Gyro control law for a S/C - [available: immediately][awaiting documentation]
 3) Control Moment Gyro - Steering Law - SRSL - [available: immediately][awaiting documentation]
 4) Control Moment Gyro - Steering Law - Null Motion
-5) Control Moment Gyro - Steering Law - Weighted Minimum 
-6) Reaction Wheel and Thruster Control Law - [future plan]
-7) 
-8) 
+5) Control Moment Gyro - Steering Law - Variable Speed Control Moment Gyro - Null Motion
+6) Control Moment Gyro - Steering Law - Variable Speed Control Moment Gyro - Weighted Minimum
+7) Control Moment Gyro - Steering Law - [future plan]
+8) Reaction Wheel and Thruster Control Law - [future plan]
+9) Control Moment Gyro and Magnetic Torque Rod - [future plan]
+10) Reaction Wheel and Magnetic Torque Rod - [future plan]
+11) Reaction Wheel, Thrusters, Magnetic Torque Rod - [future plan]
+12) Other stuff from Bong Wei's cool book! 
